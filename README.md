@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyalochana,
 - 👀 I’m interested in doing research,
-- 🌱 I’m currently learning Image processing,
-- 📫 u can reach me on twitter and mail ...
+- 🌱 Currently working with Django,
+- 📫 u can reach me on twitter(@its_me_lochana7) and mail(divyayoseph419@gmail.com) ...
 
 <!---
 Divyalochana/Divyalochana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
