@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Divyalochana,
+                                                                👋 Hi, I’m @Divyalochana,
+
+
 - 👀 I’m interested in doing research,
 - 🌱 Currently working with Django,
 - 📫 u can reach me on twitter(@its_me_lochana7) and mail(divyayoseph419@gmail.com) ...
