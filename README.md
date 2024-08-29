@@ -4,8 +4,7 @@
 
 ## An Enthusiastic Programmer..
 - 👀 I’m interested in doing research,
-- 🌱 C++ Developer
-- 🥅 Future Goals: List is bigger to write.
+- 🌱 C/C++ Developer
 - ⚡ Extra's : I'm a Selenophile and I love to dance.
 
 ### Connect with me:
