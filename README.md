@@ -10,8 +10,12 @@
 ### Connect with me:
 
 
-<img align="left" alt="Divyalochana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Divyalochana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://x.com/its_me_lochana7" target="_blank">
+  <img align="left" alt="Divyalochana | Twitter" width="22px" src="https://www.vecteezy.com/png/16716467-twitter-png-icon" />
+</a>
+<a href="https://www.linkedin.com/in/divyalochanakuppala/" target="_blank">
+  <img align="left" alt="Divyalochana | LinkedIn" width="22px" src="https://www.cleanpng.com/png-computer-icons-rsum-linkedin-logo-job-hunting-5121316/ />
+</a>
 
 
 <br />
