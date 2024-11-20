@@ -1,7 +1,7 @@
 <center><h3>Divya Lochana👋</h3></center> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;Network+Applications+Engineer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;Network+Applications+Engineer;Open+Source+Enthusiast;" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
