@@ -1,17 +1,15 @@
-<center><h3>Divya Lochana👋</h3></center> 
+<center><h3>Divya Lochana K👋</h3></center> 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&vCenter=true&width=435&lines=C%2B%2B+Developer;Network+Applications+Engineer;Open+Source+Enthusiast;" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
-I'm a passionate C/C++ Systems Developer focused on building high-performance network applications and distributed systems. With a deep understanding of systems programming, I love tackling complex technical challenges and creating efficient solutions.
+I'm a passionate C/C++ Developer focused on building high-performance network applications and distributed systems. With a deep understanding of systems programming, I love tackling complex technical challenges and creating efficient solutions.
 
 ## 🚀 What I'm Currently Working On
 - Developing a high-throughput multi-threaded map server for satellite communications
 - Building RESTful services with modern C++ frameworks
-- Contributing to open-source projects
-
 
 ## 🛠️ Core Technical Skills
 - **Languages:** C++(11/14/17/20), C, Python
